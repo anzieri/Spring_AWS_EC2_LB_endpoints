@@ -7,16 +7,24 @@ The Spring Boot code that runs on the Compute instance endpoints.Requests come i
 
 1. **Clone Repo:**
 
-``` git clone "https://github.com/anzieri/Spring_AWS_EC2_LB_endpoints.git" ```
+``` 
+git clone "https://github.com/anzieri/Spring_AWS_EC2_LB_endpoints.git"
+```
 
 2. **Enter Directory:**
 
-``` cd Spring_AWS_EC2_LB_endpoints/executable ```
+``` 
+cd Spring_AWS_EC2_LB_endpoints/executable
+```
 
 3. **Run jar file:**
 
-``` java -jar bimo-0.0.1-SNAPSHOT.jar ```
+``` 
+java -jar bimo-0.0.1-SNAPSHOT.jar
+```
 
 4. **Make Request:**
 
-``` curl "http://localhost:8080/home" ```
+``` 
+curl "http://localhost:8080/home"
+```
